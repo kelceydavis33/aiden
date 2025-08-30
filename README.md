@@ -1,4 +1,6 @@
-# Project materials for Aiden Hanks - undergraduate student Fall 2025
+# Project materials for Aiden Hanks 
+
+undergraduate student Fall 2025
 
 ## Projct outline
 
