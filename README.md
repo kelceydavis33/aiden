@@ -16,4 +16,6 @@ https://docs.google.com/presentation/d/1MaZOawUOjCnqwRdCShB44sx0OLtJ-tnTcFPCdI8f
    
 ### Project Intro (2)
 
- Now we take a detailed look at your project! More focused background material and clear project goals.
+https://docs.google.com/presentation/d/1Ir1K9r9toKmJzl-3d0twAOnZToGBNBc8TOdeT7m3Rlw/edit?usp=sharing
+
+ Now we take a detailed look at your project! More focused background material and clear project goals. Walks you through your project in steps.
