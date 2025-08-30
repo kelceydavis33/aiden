@@ -1,6 +1,6 @@
 # Project materials for Aiden Hanks - undergraduate student Fall 2025
 
-## Projct outlines
+## Projct outline
 
 see aiden.ipnby
 
