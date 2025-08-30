@@ -1,6 +1,10 @@
 # Project materials for Aiden Hanks - undergraduate student Fall 2025
 
-## Background Material:
+## Projct outlines
+
+see aiden.ipnby
+
+## Our meeting slides:
 
 ### Project Intro (1)
 
